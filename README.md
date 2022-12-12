@@ -1,6 +1,6 @@
 # portfoliofresh
 
-![alt text](https://iili.io/Ho2DuQR.png)
+![alt text](https://iili.io/Ho2mjee.png)
 
 ## Project setup
 ```
