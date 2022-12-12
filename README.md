@@ -1,5 +1,7 @@
 # portfoliofresh
 
+![alt text](https://iili.io/Ho2DuQR.png)
+
 ## Project setup
 ```
 npm install
